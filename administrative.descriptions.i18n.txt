@@ -18641,4 +18641,13 @@
     #"ru": "неорганизованная территория",
     #"zh": "非建制領地",
 },
+"Q735428": {
+    #"ca": "poble de la Xina"
+    #"de": "Großgemeinde in China"
+    "en": "town in China",
+    #"es": "villa de la República Popular China",
+    "cy": "tref yn Tsieina",
+    #"zh": "行政建制镇",
+    #"zh-cn": "行政建制镇"
+}
 }
